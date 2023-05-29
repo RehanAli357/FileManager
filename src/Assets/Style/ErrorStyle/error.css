@@ -1,0 +1,37 @@
+.Error {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.Error .Heading {
+  text-align: center;
+  color: red;
+  margin-top: 2%;
+}
+.Error .Heading h1 {
+  font-size: 4rem;
+}
+.Error .Heading h2 {
+  font-size: 3.5rem;
+}
+.Error .BGImg {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Error .GoBack {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Error .GoBack button {
+  font-size: 2rem;
+  background-color: black;
+  color: whitesmoke;
+  border: transparent;
+  padding: 0.2em 1em;
+  cursor: pointer;
+  border-radius: 10em;
+}/*# sourceMappingURL=error.css.map */
